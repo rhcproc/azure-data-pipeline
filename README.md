@@ -1,4 +1,4 @@
-# simple-writer
+# Azure Data Pipeline
 
 Minimal Python Azure Functions app with a timer trigger that runs once per hour.
 
